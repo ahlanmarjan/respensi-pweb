@@ -1,0 +1,14 @@
+ahlan|2100018474|ambon|ahlan@gmail.com|TI|Laki-laki
+lanox|2100018474|jogja|ari@gmail.com|Elektro|Perempuan
+a|2100018474|jakarta|jogja|Elektro|
+a|2100018474|jakarta|jogja|TI|
+ahlan|2100018474|namlea |ahlan@gmail.com|Elektro|
+ahlan|2100018474|ambon|jogja|TI|Laki-laki
+ahlan|2100018474|jakarta|jogja|TI|Laki-laki
+ahlan|2100018474|jakarta|jogja|TI|Laki-laki
+ahlan|2100018474|jakarta|ahlan@gmail.com|TI|Laki-laki
+alex|23450987|bandung||TI|Laki-laki
+|||||
+ahlan|2100018474|jakarta|ahlan@gmail.com|TI|Laki-laki
+|||||
+|||||
